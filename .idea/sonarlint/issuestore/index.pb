@@ -5,3 +5,5 @@ V
 &contracts/conservation-initiative.clar,d/5/d553837300e9d22c15230e18e9ba5ef539eef2eb
 S
 #contracts/habitat-verification.clar,9/3/933812cb5b720055bed3d3ce51fc23ffd92ea960
+O
+contracts/species-tracking.clar,1/b/1bd2ac839c6b719c19c5db5df69ead1d6778c410
